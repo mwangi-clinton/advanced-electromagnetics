@@ -1,4 +1,3 @@
-# advanced-electromagnetics
 # Electromagnetic Projects - MSc Program
 
 Welcome to the repository for my MSc program's Electromagnetic unit. This repository contains a collection of all the projects and assignments undertaken as part of the course. Each project explores different aspects of electromagnetism, from fundamental principles to advanced applications.
